@@ -1,0 +1,297 @@
+==================================================
+Start of Log: 03/28/2023 10:18:10
+==================================================
+kfsdrdilemp001 @ 10.128.192.12 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp001 @ 10.128.192.12
+Inner Module Ran.
+kfsdrdilemp001 Host Moved OK.
+==================================================
+KFSDRDILEMP002 @ 10.128.192.13 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP002 @ 10.128.192.13
+Inner Module Ran.
+KFSDRDILEMP002 Host Moved OK.
+==================================================
+KFSDRDILEMP003 @ 10.128.192.14 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP003 @ 10.128.192.14
+Inner Module Ran.
+KFSDRDILEMP003 Host Moved OK.
+==================================================
+KFSDRDILEMP004 @ 10.128.192.15 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP004 @ 10.128.192.15
+Inner Module Ran.
+KFSDRDILEMP004 Host Moved OK.
+==================================================
+KFSDRDILEMP005 @ 10.128.192.16 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP005 @ 10.128.192.16
+Inner Module Ran.
+KFSDRDILEMP005 Host Moved OK.
+==================================================
+KFSDRDILEMP006 @ 10.128.192.17 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP006 @ 10.128.192.17
+Inner Module Ran.
+KFSDRDILEMP006 Host Moved OK.
+==================================================
+KFSDRDILEMP007 @ 10.128.192.18 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP007 @ 10.128.192.18
+Inner Module Ran.
+KFSDRDILEMP007 Host Moved OK.
+==================================================
+KFSDRDILEMP008 @ 10.128.192.19 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP008 @ 10.128.192.19
+Inner Module Ran.
+KFSDRDILEMP008 Host Moved OK.
+==================================================
+KFSDRDILEMP009 @ 10.128.192.20 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP009 @ 10.128.192.20
+Inner Module Ran.
+KFSDRDILEMP009 Host Moved OK.
+==================================================
+KFSDRDILEMP010 @ 10.128.192.21 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP010 @ 10.128.192.21
+Inner Module Ran.
+KFSDRDILEMP010 Host Moved OK.
+==================================================
+KFSDRDILEMP011 @ 10.128.192.22 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP011 @ 10.128.192.22
+Inner Module Ran.
+KFSDRDILEMP011 Host Moved OK.
+==================================================
+KFSDRDILEMP012 @ 10.128.192.23 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP012 @ 10.128.192.23
+Inner Module Ran.
+KFSDRDILEMP012 Host Moved OK.
+==================================================
+KFSDRDILEMP013 @ 10.128.192.24 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP013 @ 10.128.192.24
+Inner Module Ran.
+KFSDRDILEMP013 Host Moved OK.
+==================================================
+KFSDRDILEMP014 @ 10.128.192.25 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP014 @ 10.128.192.25
+Inner Module Ran.
+KFSDRDILEMP014 Host Moved OK.
+==================================================
+KFSDRDILEMP015 @ 10.128.192.26 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP015 @ 10.128.192.26
+Inner Module Ran.
+KFSDRDILEMP015 Host Moved OK.
+==================================================
+KFSDRDILEMP016 @ 10.128.192.27 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP016 @ 10.128.192.27
+Inner Module Ran.
+KFSDRDILEMP016 Host Moved OK.
+==================================================
+KFSDRDILEMP017 @ 10.128.192.28 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP017 @ 10.128.192.28
+Inner Module Ran.
+KFSDRDILEMP017 Host Moved OK.
+==================================================
+KFSDRDILEMP018 @ 10.128.192.29 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP018 @ 10.128.192.29
+Inner Module Ran.
+KFSDRDILEMP018 Host Moved OK.
+==================================================
+kfsdrdilemp019 @ 10.128.192.30 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp019 @ 10.128.192.30
+Inner Module Ran.
+kfsdrdilemp019 Host Moved OK.
+==================================================
+KFSDRDILEMP020 @ 10.128.192.31 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP020 @ 10.128.192.31
+Inner Module Ran.
+KFSDRDILEMP020 Host Moved OK.
+==================================================
+KFSDRDILEMP021 @ 10.128.192.32 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP021 @ 10.128.192.32
+Inner Module Ran.
+KFSDRDILEMP021 Host Moved OK.
+==================================================
+kfsdrdilemp022 @ 10.128.192.33 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp022 @ 10.128.192.33
+Inner Module Ran.
+kfsdrdilemp022 Host Moved OK.
+==================================================
+KFSDRDILEMP023 @ 10.128.192.34 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP023 @ 10.128.192.34
+Inner Module Ran.
+KFSDRDILEMP023 Host Moved OK.
+==================================================
+kfsdrdilemp024 @ 10.128.192.35 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp024 @ 10.128.192.35
+Inner Module Ran.
+kfsdrdilemp024 Host Moved OK.
+==================================================
+KFSDRDILEMP025 @ 10.128.192.36 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP025 @ 10.128.192.36
+Inner Module Ran.
+KFSDRDILEMP025 Host Moved OK.
+==================================================
+kfsdrdilemp026 @ 10.128.192.37 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp026 @ 10.128.192.37
+Inner Module Ran.
+kfsdrdilemp026 Host Moved OK.
+==================================================
+KFSDRDILEMP027 @ 10.128.192.38 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP027 @ 10.128.192.38
+Inner Module Ran.
+KFSDRDILEMP027 Host Moved OK.
+==================================================
+kfsdrdilemp028 @ 10.128.192.39 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp028 @ 10.128.192.39
+Inner Module Ran.
+kfsdrdilemp028 Host Moved OK.
+==================================================
+kfsdrdilemp029 @ 10.128.192.40 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp029 @ 10.128.192.40
+Inner Module Ran.
+kfsdrdilemp029 Host Moved OK.
+==================================================
+kfsdrdilemp030 @ 10.128.192.41 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp030 @ 10.128.192.41
+Inner Module Ran.
+kfsdrdilemp030 Host Moved OK.
+==================================================
+kfsdrdilemp031 @ 10.128.192.42 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp031 @ 10.128.192.42
+Inner Module Ran.
+kfsdrdilemp031 Host Moved OK.
+==================================================
+KFSDRDILEMP032 @ 10.128.192.43 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP032 @ 10.128.192.43
+Inner Module Ran.
+KFSDRDILEMP032 Host Moved OK.
+==================================================
+KFSDRDILEMP033 @ 10.128.192.44 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP033 @ 10.128.192.44
+Inner Module Ran.
+KFSDRDILEMP033 Host Moved OK.
+==================================================
+kfsdrdilemp034 @ 10.128.192.45 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp034 @ 10.128.192.45
+Inner Module Ran.
+kfsdrdilemp034 Host Moved OK.
+==================================================
+kfsdrdilemp035 @ 10.128.192.46 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp035 @ 10.128.192.46
+Inner Module Ran.
+kfsdrdilemp035 Host Moved OK.
+==================================================
+KFSDRDILEMP036 @ 10.128.192.47 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP036 @ 10.128.192.47
+Inner Module Ran.
+KFSDRDILEMP036 Host Moved OK.
+==================================================
+KFSDRDILEMP037 @ 10.128.192.48 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP037 @ 10.128.192.48
+Inner Module Ran.
+KFSDRDILEMP037 Host Moved OK.
+==================================================
+KFSDRDILEMP038 @ 10.128.192.49 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP038 @ 10.128.192.49
+Inner Module Ran.
+KFSDRDILEMP038 Host Moved OK.
+==================================================
+kfsdrdilemp039 @ 10.128.192.50 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp039 @ 10.128.192.50
+Inner Module Ran.
+kfsdrdilemp039 Host Moved OK.
+==================================================
+kfsdrdilemp040 @ 10.128.192.51 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp040 @ 10.128.192.51
+Inner Module Ran.
+kfsdrdilemp040 Host Moved OK.
+==================================================
+kfsdrdilemp041 @ 10.128.192.52 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp041 @ 10.128.192.52
+Inner Module Ran.
+kfsdrdilemp041 Host Moved OK.
+==================================================
+kfsdrdilemp042 @ 10.128.192.53 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp042 @ 10.128.192.53
+Inner Module Ran.
+kfsdrdilemp042 Host Moved OK.
+==================================================
+kfsdrdilemp043 @ 10.128.192.54 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp043 @ 10.128.192.54
+Inner Module Ran.
+kfsdrdilemp043 Host Moved OK.
+==================================================
+KFSDRDILEMP044 @ 10.128.192.55 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP044 @ 10.128.192.55
+Inner Module Ran.
+KFSDRDILEMP044 Host Moved OK.
+==================================================
+KFSDRDILEMP045 @ 10.128.192.66 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP045 @ 10.128.192.66
+Inner Module Ran.
+KFSDRDILEMP045 Host Moved OK.
+==================================================
+kfsdrdilemp046 @ 10.128.192.71 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp046 @ 10.128.192.71
+Inner Module Ran.
+kfsdrdilemp046 Host Moved OK.
+==================================================
+KFSDRDILEMP047 @ 10.128.192.84 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP047 @ 10.128.192.84
+Inner Module Ran.
+KFSDRDILEMP047 Host Moved OK.
+==================================================
+KFSDRDILEMP048 @ 10.128.192.88 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP048 @ 10.128.192.88
+Inner Module Ran.
+KFSDRDILEMP048 Host Moved OK.
+==================================================
+kfsdrdilemp049 @ 10.128.192.62 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp049 @ 10.128.192.62
+Inner Module Ran.
+kfsdrdilemp049 Host Moved OK.
+==================================================
+kfsdrdilac051 @ 10.128.192.99 is DEAD XXXXXXX
+==================================================
+kfsdrdilemp051 @ 10.128.192.64 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp051 @ 10.128.192.64
+Inner Module Ran.
+kfsdrdilemp051 Host Moved OK.
+==================================================
+kfsdrdilemp052 @ 10.128.192.83 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp052 @ 10.128.192.83
+Inner Module Ran.
+kfsdrdilemp052 Host Moved OK.
+==================================================
+kfsdrdilemp053 @ 10.128.192.101 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp053 @ 10.128.192.101
+Inner Module Ran.
+kfsdrdilemp053 Host Moved OK.
+==================================================
+kfsdrdilemp054 @ 10.128.192.106 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp054 @ 10.128.192.106
+Inner Module Ran.
+kfsdrdilemp054 Host Moved OK.
+==================================================
+kfsdrdilemp055 @ 10.128.192.107 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp055 @ 10.128.192.107
+Inner Module Ran.
+kfsdrdilemp055 Host Moved OK.
+==================================================
+kfsdrdilemp056 @ 10.128.192.56 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp056 @ 10.128.192.56
+Inner Module Ran.
+kfsdrdilemp056 Host Moved OK.
+==================================================
+kfsdrdilemp057 @ 10.128.192.72 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp057 @ 10.128.192.72
+Inner Module Ran.
+kfsdrdilemp057 Host Moved OK.
+==================================================
+KFSDRDILEMP058 @ 10.128.192.90 is Alive !
+Inner Module has copied OK to Host: KFSDRDILEMP058 @ 10.128.192.90
+Inner Module Ran.
+KFSDRDILEMP058 Host Moved OK.
+==================================================
+kfsdrdilemp059 @ 10.128.192.91 is Alive !
+Inner Module has copied OK to Host: kfsdrdilemp059 @ 10.128.192.91
+Inner Module Ran.
+kfsdrdilemp059 Host Moved OK.
+==================================================
+kfsdrdilemp060 @ 10.128.192.126 is DEAD XXXXXXX
+==================================================

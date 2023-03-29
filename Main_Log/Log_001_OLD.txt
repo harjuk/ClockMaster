@@ -1,0 +1,186 @@
+Start of Log: 03/27/2023 13:27:31
+BSHD013089 @ 10.128.115.139 is Alive !
+Inner Module has copied OK to Host: BSHD013089 @ 10.128.115.139
+Inner Module Ran.
+BSHD013089 Host Moved OK.
+==================================================
+BSHD015321 @ 10.127.240.114 is Alive !
+Inner Module has copied OK to Host: BSHD015321 @ 10.127.240.114
+Inner Module Ran.
+BSHD015321 Host Moved OK.
+==================================================
+bshd087418 @ 10.127.240.115 is Alive !
+Inner Module has copied OK to Host: bshd087418 @ 10.127.240.115
+Inner Module Ran.
+==================================================
+BSHD087478 @ 10.127.240.117 is Alive !
+Inner Module has copied OK to Host: BSHD087478 @ 10.127.240.117
+Inner Module Ran.
+==================================================
+bshd087631 @ 10.127.240.108 is Alive !
+Inner Module has copied OK to Host: bshd087631 @ 10.127.240.108
+Inner Module Ran.
+bshd087631 Didn't move on it own, will require to be added to automation script.
+Added Host bshd087631 to Manual_List.txt OK !
+==================================================
+BSHDL013216 @ 10.127.240.107 is Alive !
+Inner Module has copied OK to Host: BSHDL013216 @ 10.127.240.107
+Inner Module Ran.
+BSHDL013216 Host Moved OK.
+==================================================
+BSHD087683 @ 10.127.240.116 is Alive !
+Inner Module has copied OK to Host: BSHD087683 @ 10.127.240.116
+Inner Module Ran.
+BSHD087683 Host Moved OK.
+==================================================
+bshdl013040 @ 10.127.240.101 is Alive !
+Inner Module has copied OK to Host: bshdl013040 @ 10.127.240.101
+Inner Module Ran.
+bshdl013040 Host Moved OK.
+==================================================
+BSHDL013056 @ 10.127.240.125 is Alive !
+Inner Module has copied OK to Host: BSHDL013056 @ 10.127.240.125
+Inner Module Ran.
+BSHDL013056 Host Moved OK.
+==================================================
+BSHDL013078 @ 10.127.240.120 is DEAD XXXXXXX
+==================================================
+BSHDL013223 @ 10.127.240.105 is Alive !
+Inner Module has copied OK to Host: BSHDL013223 @ 10.127.240.105
+Inner Module Ran.
+BSHDL013223 Host Moved OK.
+==================================================
+BSHDL013088 @ 10.127.240.110 is Alive !
+Inner Module has copied OK to Host: BSHDL013088 @ 10.127.240.110
+Inner Module Ran.
+==================================================
+BSHDL013088 @ 10.127.240.110 is Alive !
+Inner Module has copied OK to Host: BSHDL013088 @ 10.127.240.110
+Inner Module Ran.
+==================================================
+BSHDL013095 @ 10.127.240.111 is Alive !
+Inner Module has copied OK to Host: BSHDL013095 @ 10.127.240.111
+Inner Module Ran.
+BSHDL013095 Host Moved OK.
+==================================================
+BSHDL013096 @ 10.127.240.112 is Alive !
+Inner Module has copied OK to Host: BSHDL013096 @ 10.127.240.112
+Inner Module Ran.
+BSHDL013096 Host Moved OK.
+==================================================
+BSHDL013101 @ 10.127.240.133 is Alive !
+Inner Module has copied OK to Host: BSHDL013101 @ 10.127.240.133
+Inner Module Ran.
+BSHDL013101 Host Moved OK.
+==================================================
+BSHDL013102 @ 10.127.240.127 is Alive !
+Inner Module has copied OK to Host: BSHDL013102 @ 10.127.240.127
+Inner Module Ran.
+BSHDL013102 Host Moved OK.
+==================================================
+BSHDL013111 @ 10.127.240.100 is Alive !
+Inner Module has copied OK to Host: BSHDL013111 @ 10.127.240.100
+Inner Module Ran.
+BSHDL013111 Host Moved OK.
+==================================================
+BSHDL013135 @ 10.129.112.172 is Alive !
+Inner Module has copied OK to Host: BSHDL013135 @ 10.129.112.172
+Inner Module Ran.
+==================================================
+BSHDL013175 @ 10.128.109.7 is Alive !
+Inner Module has copied OK to Host: BSHDL013175 @ 10.128.109.7
+Inner Module Ran.
+BSHDL013175 Host Moved OK.
+==================================================
+BSHDL24029 @ 10.127.240.104 is Alive !
+Inner Module has copied OK to Host: BSHDL24029 @ 10.127.240.104
+Inner Module Ran.
+BSHDL24029 Host Moved OK.
+==================================================
+bshdl059921 @ 10.128.115.149 is Alive !
+Inner Module has copied OK to Host: bshdl059921 @ 10.128.115.149
+Inner Module Ran.
+bshdl059921 Host Moved OK.
+==================================================
+BSHDL069552 @ 10.127.240.121 is Alive !
+Inner Module has copied OK to Host: BSHDL069552 @ 10.127.240.121
+Inner Module Ran.
+==================================================
+BSHDL084457 @ 10.127.240.131 is Alive !
+Inner Module has copied OK to Host: BSHDL084457 @ 10.127.240.131
+Inner Module Ran.
+BSHDL084457 Host Moved OK.
+==================================================
+BSHDL087384 @ 10.127.240.129 is Alive !
+Inner Module has copied OK to Host: BSHDL087384 @ 10.127.240.129
+Inner Module Ran.
+==================================================
+BSHDL087517 @ 10.127.240.126 is Alive !
+Inner Module has copied OK to Host: BSHDL087517 @ 10.127.240.126
+Inner Module Ran.
+==================================================
+BSHDL087556 @ 10.129.113.30 is Alive !
+Inner Module has copied OK to Host: BSHDL087556 @ 10.129.113.30
+Inner Module Ran.
+==================================================
+BSHDL087696 @ 10.127.240.124 is Alive !
+Inner Module has copied OK to Host: BSHDL087696 @ 10.127.240.124
+Inner Module Ran.
+BSHDL087696 Host Moved OK.
+==================================================
+BSHDL087697 @ 10.127.240.123 is Alive !
+Inner Module has copied OK to Host: BSHDL087697 @ 10.127.240.123
+Inner Module Ran.
+BSHDL087697 Host Moved OK.
+==================================================
+bshdl087782 @ 10.127.240.118 is Alive !
+Inner Module has copied OK to Host: bshdl087782 @ 10.127.240.118
+Inner Module Ran.
+bshdl087782 Host Moved OK.
+==================================================
+BSHDL087785 @ 10.127.240.132 is Alive !
+Inner Module has copied OK to Host: BSHDL087785 @ 10.127.240.132
+Inner Module Ran.
+BSHDL087785 Host Moved OK.
+==================================================
+BSHDL087791 @ 10.129.114.45 is Alive !
+Inner Module has copied OK to Host: BSHDL087791 @ 10.129.114.45
+Inner Module Ran.
+BSHDL087791 Host Moved OK.
+==================================================
+BSHDL087792 @ 10.127.240.119 is Alive !
+Inner Module has copied OK to Host: BSHDL087792 @ 10.127.240.119
+Inner Module Ran.
+BSHDL087792 Host Moved OK.
+==================================================
+BSHDL087796 @ 10.129.113.214 is Alive !
+Inner Module has copied OK to Host: BSHDL087796 @ 10.129.113.214
+Inner Module Ran.
+==================================================
+BSHDTPQCOLAIC03 @ 10.127.240.113 is Alive !
+Inner Module has copied OK to Host: BSHDTPQCOLAIC03 @ 10.127.240.113
+Inner Module Ran.
+BSHDTPQCOLAIC03 Host Moved OK.
+==================================================
+NTPDL073097 @ 10.128.115.147 is Alive !
+Inner Module has copied OK to Host: NTPDL073097 @ 10.128.115.147
+Inner Module Ran.
+NTPDL073097 Host Moved OK.
+==================================================
+bshd083335 @ 10.129.112.231 is Alive !
+Inner Module has copied OK to Host: bshd083335 @ 10.129.112.231
+Inner Module Ran.
+==================================================
+bshdl071377 @ 10.129.112.165 is Alive !
+Inner Module has copied OK to Host: bshdl071377 @ 10.129.112.165
+Inner Module Ran.
+==================================================
+BSHDL24020 @ 10.129.113.178 is Alive !
+Inner Module has copied OK to Host: BSHDL24020 @ 10.129.113.178
+Inner Module Ran.
+BSHDL24020 Host Moved OK.
+==================================================
+bshlabvmsrv01 @ 10.129.112.253 is Alive !
+Inner Module has copied OK to Host: bshlabvmsrv01 @ 10.129.112.253
+Inner Module Ran.
+==================================================
